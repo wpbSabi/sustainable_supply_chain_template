@@ -1,21 +1,32 @@
 # Sustainable Supply Chain Model 
-A Sustainable Supply Chain Template with Geospatial Calculations in Python
-
-See the supporting article on www.TowardsDataScience.com for more background information.
+To read more about this sustainable supply chain template with geospatial calculations in python, see the supporting article on medium for more background information.
 (Link coming soon)
 
-## Overview
-The python notebook can be run in a jupyter notebook.  Data is located in the data folder
+## To Run
+The python notebook `sustainable_supply_chain_template.ipynb` can be run in a jupyter notebook.  
+Data is located in the data folder.
 
-This notebook serves as a template with sample data, to demonstrate including transportation and facility greenhouse gas emissions in a supply chain carbon footprint.
+This notebook serves as a template with sample data, to demonstrate that both transportation and facility greenhouse gas emissions should be included in a supply chain carbon evaluation.
 
 ## Scenario example
+For example, here are the results of four scenarios and the accompanying maps
 
-Image placeholder to show one of the scenario (three distribution centers)
-![customers](https://github.com/wpbSabi/python_optimization/blob/main/facility_location/images/Customers.png)
+| Scenario     | Transportation Emissions | Transportation and DC Emissions Total |
+|--------------|--------------------------|---------------------------------------|
+| 3 DCs        | 11 kg CO2e               | 779 kg CO2e                           |
+| Seattle DC   | 51 kg CO2e               | 494 kg CO2e                           |
+| Memphis DC   | 23 kg CO2e               | 466 kg CO2e                           |
+| St. Louis DC | 24 kg CO2e               | 467 kg CO2e                           |
 
-Table placeholder to show results of the scenario
-| Year | Days where every duck laid an egg | Days with at least one egg laid |
-|------|-----------------------------------|---------------------------------|
-| 2021 | 110                               | 254                             |
-| 2022 | 109                               | 226                             |
+
+3 DCs
+![3 DCs](https://github.com/wpbSabi/sustainable_supply_chain_template/blob/main/images/folium_ThreeDCs.png)
+
+Seattle DC
+![Seattle DC](https://github.com/wpbSabi/sustainable_supply_chain_template/blob/main/images/folium_Seattle.png)
+
+Memphis DC
+![Memphis DC](https://github.com/wpbSabi/sustainable_supply_chain_template/blob/main/images/folium_Memphis.png)
+
+St. Louis DC
+![St. Louis DC](https://github.com/wpbSabi/sustainable_supply_chain_template/blob/main/images/folium_StLouis.png)
