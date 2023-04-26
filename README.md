@@ -1,6 +1,7 @@
 # Sustainable Supply Chain Model 
-To read more about this sustainable supply chain template with geospatial calculations in python, see the supporting article on ![Towards Data Science](https://medium.com/towards-data-science/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4) for more background information.
-(Link coming soon)
+To read more about this sustainable supply chain template with geospatial calculations in python, see the supporting article on 
+Towards Data Science for more background information.
+https://medium.com/towards-data-science/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4
 
 ## To Run
 The python notebook `sustainable_supply_chain_template.ipynb` can be run in a jupyter notebook.  
