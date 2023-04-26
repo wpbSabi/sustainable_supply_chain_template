@@ -1,5 +1,5 @@
 # Sustainable Supply Chain Model 
-To read more about this sustainable supply chain template with geospatial calculations in python, see the supporting article on medium for more background information.
+To read more about this sustainable supply chain template with geospatial calculations in python, see the supporting article on ![Towards Data Science](https://medium.com/towards-data-science/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4) for more background information.
 (Link coming soon)
 
 ## To Run
